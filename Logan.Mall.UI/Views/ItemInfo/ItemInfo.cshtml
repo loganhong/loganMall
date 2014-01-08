@@ -1,0 +1,16 @@
+﻿@model Logan.Mall.UI.Models.ItemInfoModels
+@using Logan.Mall.Contract.DataContracts
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<dt>
+    @foreach (var item in Model.ItemInfoList)
+    {
+        <a href="#" style="display:block;">@item.ID</a>
+        <a href="#" style="display:block;">@item.ItemName</a>
+        <a href="#" style="display:block;">@item.ItemNO</a>
+        <a href="#" style="display:block;">@item.SalePrice</a>
+        <a href="#" style="display:block;">@item.CreateDate</a>
+        <a href="#" style="display:block;">@item.EditDate</a>
+    }
+</dt>

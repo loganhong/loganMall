@@ -1,0 +1,18 @@
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Data\bin\Debug\Com.BaseLibrary.Data.dll
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Data\bin\Debug\Com.BaseLibrary.Data.pdb
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Data\bin\Debug\Com.BaseLibrary.Common.dll
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Data\bin\Debug\org.in2bits.MyXls.dll
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Data\bin\Debug\Newtonsoft.Json.dll
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Data\bin\Debug\Com.BaseLibrary.Common.pdb
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Data\obj\Debug\Com.BaseLibrary.DataAccess.csprojResolveAssemblyReference.cache
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Data\obj\Debug\Com.BaseLibrary.Data.dll
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Data\obj\Debug\Com.BaseLibrary.Data.pdb
+D:\LoganHong\WorkSpace\Logan Mall V2.0\Com.BaseLibrary.DataAccess\obj\Debug\Com.BaseLibrary.DataAccess.csprojResolveAssemblyReference.cache
+D:\LoganHong\WorkSpace\Logan Mall V2.0\Com.BaseLibrary.DataAccess\obj\Debug\Com.BaseLibrary.Data.dll
+D:\LoganHong\WorkSpace\Logan Mall V2.0\Com.BaseLibrary.DataAccess\obj\Debug\Com.BaseLibrary.Data.pdb
+D:\LoganHong\WorkSpace\Logan Mall V2.0\Com.BaseLibrary.DataAccess\bin\Debug\Com.BaseLibrary.Data.dll
+D:\LoganHong\WorkSpace\Logan Mall V2.0\Com.BaseLibrary.DataAccess\bin\Debug\Com.BaseLibrary.Data.pdb
+D:\LoganHong\WorkSpace\Logan Mall V2.0\Com.BaseLibrary.DataAccess\bin\Debug\Com.BaseLibrary.Common.dll
+D:\LoganHong\WorkSpace\Logan Mall V2.0\Com.BaseLibrary.DataAccess\bin\Debug\org.in2bits.MyXls.dll
+D:\LoganHong\WorkSpace\Logan Mall V2.0\Com.BaseLibrary.DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\LoganHong\WorkSpace\Logan Mall V2.0\Com.BaseLibrary.DataAccess\bin\Debug\Com.BaseLibrary.Common.pdb

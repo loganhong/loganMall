@@ -1,0 +1,7 @@
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Common\bin\Release\Com.BaseLibrary.Common.dll
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Common\bin\Release\Com.BaseLibrary.Common.pdb
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Common\bin\Release\Newtonsoft.Json.dll
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Common\bin\Release\org.in2bits.MyXls.dll
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Common\obj\Release\Com.BaseLibrary.Common.dll
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Common\obj\Release\Com.BaseLibrary.Common.pdb
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Common\obj\Release\Com.BaseLibrary.Common.csprojResolveAssemblyReference.cache

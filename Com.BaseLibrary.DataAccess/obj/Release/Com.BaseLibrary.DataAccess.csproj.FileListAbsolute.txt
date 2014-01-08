@@ -1,0 +1,9 @@
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Data\bin\Release\Com.BaseLibrary.Data.dll
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Data\bin\Release\Com.BaseLibrary.Data.pdb
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Data\bin\Release\Com.BaseLibrary.Common.dll
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Data\bin\Release\org.in2bits.MyXls.dll
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Data\bin\Release\Newtonsoft.Json.dll
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Data\bin\Release\Com.BaseLibrary.Common.pdb
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Data\obj\Release\Com.BaseLibrary.DataAccess.csprojResolveAssemblyReference.cache
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Data\obj\Release\Com.BaseLibrary.Data.dll
+D:\vsts\JuFine\03_Code\BaseLibrary\Com.BaseLibrary.Data\obj\Release\Com.BaseLibrary.Data.pdb

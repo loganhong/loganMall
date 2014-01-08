@@ -1,0 +1,12 @@
+D:\LoganHong\C#project\Logan Mall V2.0\Logan.Mall.Contract\bin\Debug\Logan.Mall.Contract.dll
+D:\LoganHong\C#project\Logan Mall V2.0\Logan.Mall.Contract\bin\Debug\Logan.Mall.Contract.pdb
+D:\LoganHong\C#project\Logan Mall V2.0\Logan.Mall.Contract\obj\Debug\Logan.Mall.Contract.csprojResolveAssemblyReference.cache
+D:\LoganHong\C#project\Logan Mall V2.0\Logan.Mall.Contract\obj\Debug\Logan.Mall.Contract.dll
+D:\LoganHong\C#project\Logan Mall V2.0\Logan.Mall.Contract\obj\Debug\Logan.Mall.Contract.pdb
+D:\LoganHong\WorkSpace\Logan Mall V2.0\Logan.Mall.Contract\bin\Debug\Logan.Mall.Contract.dll
+D:\LoganHong\WorkSpace\Logan Mall V2.0\Logan.Mall.Contract\bin\Debug\Logan.Mall.Contract.pdb
+D:\LoganHong\WorkSpace\Logan Mall V2.0\Logan.Mall.Contract\obj\Debug\Logan.Mall.Contract.csprojResolveAssemblyReference.cache
+D:\LoganHong\WorkSpace\Logan Mall V2.0\Logan.Mall.Contract\obj\Debug\Logan.Mall.Contract.dll
+D:\LoganHong\WorkSpace\Logan Mall V2.0\Logan.Mall.Contract\obj\Debug\Logan.Mall.Contract.pdb
+D:\LoganHong\WorkSpace\Logan Mall V2.0\Logan.Mall.Contract\bin\Debug\Logan.Mall.BaseLib.dll
+D:\LoganHong\WorkSpace\Logan Mall V2.0\Logan.Mall.Contract\bin\Debug\Logan.Mall.BaseLib.pdb
